@@ -5,7 +5,7 @@ Simple project include Google Analytic and Google Admob
 
 # Code
 * Config.class :
-```
+```java
 public class Config {
 
     private Tracker mTracker;
@@ -117,7 +117,7 @@ public class Config {
 ```
 * AnalyticsApplication.class :
 
-```
+```java
 public class AnalyticsApplication extends Application {
 
     private static GoogleAnalytics sAnalytics;
@@ -147,7 +147,7 @@ public class AnalyticsApplication extends Application {
 ```
 * Mainactivity.class :
 
-```
+```java
 // Make sure global_tracker.xml is configured
 if(!config.checkConfiguration(this,TAG1))
         {
