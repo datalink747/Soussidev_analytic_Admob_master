@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId" translatable="false">UA-106177236-1</string>
+
+   <!-- &lt;!&ndash;Enable automatic activity tracking&ndash;&gt;
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    &lt;!&ndash;Enable automatic exception tracking&ndash;&gt;
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    &lt;!&ndash; End current session if app sleeps for a period of time &ndash;&gt;
+    <integer name="ga_sessionTimeout">300</integer>-->
+</resources>
