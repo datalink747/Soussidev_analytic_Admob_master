@@ -5,11 +5,9 @@ Simple project include Google Analytic and Google Admob
 
 
 # Linkedin
-```
 <a href="https://www.linkedin.com/in/soussimohamed/">
 <img src="picture/linkedin.png" height="100" width="100" alt="Soussi Mohamed">
 </a>
-```
 # Licence
 
 ```
